@@ -12,6 +12,7 @@ This solution starter was created by technologists from IBM.
 - Daniel Cunnington - IBM
 - Kevin Allen - IBM
 - Neil MacKinnon - IBM
+- Phaedra Boinodiris - IBM
 
 ## Contents
 
