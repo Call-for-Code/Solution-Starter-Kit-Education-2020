@@ -43,8 +43,11 @@ Quiz App
 
 1. The user navigates to the site.
 2. The user is presented with a website, a React front end.
+
 3a. The user performs an action within the Express app.
+
 3b. The LoopBack-generated code performs the necessary task within the Express app.
+
 4. Changes are saved in a PluggableDB.
 
 Video transcription/translation app
