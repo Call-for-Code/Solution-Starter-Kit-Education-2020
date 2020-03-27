@@ -38,19 +38,19 @@ It's imperative that learning and creating can continue when educational institu
 
 ## The architecture
 
-Quiz App
+### Quiz App
 ![Quiz app](https://developer.ibm.com/developer/tutorials/cfc-starter-kit-quiz-app-example/images/cfc-covid19-remote-education-diagram-1.png)
 
 1. The user navigates to the site.
 2. The user is presented with a website, a React front end.
 
-3a. The user performs an action within the Express app.
+  3a. The user performs an action within the Express app.
 
-3b. The LoopBack-generated code performs the necessary task within the Express app.
+  3b. The LoopBack-generated code performs the necessary task within the Express app.
 
 4. Changes are saved in a PluggableDB.
 
-Video transcription/translation app
+### Video transcription/translation app
 ![Video transcription/translation app](https://developer.ibm.com/developer/tutorials/cfc-starter-kit-speech-to-text-app-example/images/cfc-covid19-remote-education-diagram-2.png)
 
 1. The user navigates to the site and uploads a video file.
